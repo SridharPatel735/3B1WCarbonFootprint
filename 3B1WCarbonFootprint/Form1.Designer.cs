@@ -35,10 +35,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlText;
-            this.ClientSize = new System.Drawing.Size(971, 979);
+            this.ClientSize = new System.Drawing.Size(1487, 979);
             this.ForeColor = System.Drawing.Color.DarkKhaki;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "3B1W";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
